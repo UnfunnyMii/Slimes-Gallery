@@ -1,0 +1,7 @@
+{
+	"pack": {
+        "pack_format": 34,
+        "supported_formats": [34,32767],
+		"description": "You need to enable this as a resourcepack and datapack."
+	}
+}
