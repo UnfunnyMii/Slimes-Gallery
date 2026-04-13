@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:pools",
+  "width": 2,
+  "height": 3,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.pools.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.pools.title"
+  }
+}

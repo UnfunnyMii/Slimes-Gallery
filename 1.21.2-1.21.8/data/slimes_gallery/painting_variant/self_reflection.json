@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:self_reflection",
+  "width": 1,
+  "height": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.self_reflection.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.self_reflection.title"
+  }
+}

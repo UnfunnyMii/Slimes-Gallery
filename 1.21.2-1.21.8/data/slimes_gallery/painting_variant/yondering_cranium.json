@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:yondering_cranium",
+  "width": 3,
+  "height": 3,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.yondering_cranium.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.yondering_cranium.title"
+  }
+}

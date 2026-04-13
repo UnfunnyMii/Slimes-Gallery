@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:brick_monster",
+  "width": 3,
+  "height": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.brick_monster.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.brick_monster.title"
+  }
+}

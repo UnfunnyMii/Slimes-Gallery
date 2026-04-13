@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:ocean",
+  "width": 2,
+  "height": 3,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.ocean.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.ocean.title"
+  }
+}

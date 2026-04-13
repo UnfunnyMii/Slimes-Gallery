@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:the_sun_has_set",
+  "width": 2,
+  "height": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.the_sun_has_set.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.the_sun_has_set.title"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:afternoon",
+  "width": 1,
+  "height": 3,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.afternoon.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.afternoon.title"
+  }
+}

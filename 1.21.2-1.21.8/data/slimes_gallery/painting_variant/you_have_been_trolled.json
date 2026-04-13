@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:you_have_been_trolled",
+  "width": 3,
+  "height": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.you_have_been_trolled.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.you_have_been_trolled.title"
+  }
+}

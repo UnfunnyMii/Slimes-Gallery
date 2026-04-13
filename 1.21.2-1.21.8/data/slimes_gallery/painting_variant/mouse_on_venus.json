@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:mouse_on_venus",
+  "width": 1,
+  "height": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.mouse_on_venus.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.mouse_on_venus.title"
+  }
+}

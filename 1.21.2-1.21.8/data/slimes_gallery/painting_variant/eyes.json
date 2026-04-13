@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:eyes",
+  "width": 2,
+  "height": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.eyes.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.eyes.title"
+  }
+}
