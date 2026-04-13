@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:ending",
+  "width": 3,
+  "height": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.ending.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.ending.title"
+  }
+}

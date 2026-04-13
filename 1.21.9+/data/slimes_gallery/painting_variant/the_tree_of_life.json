@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:the_tree_of_life",
+  "width": 6,
+  "height": 4,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.the_tree_of_life.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.the_tree_of_life.title"
+  }
+}

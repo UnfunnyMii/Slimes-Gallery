@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:kitty",
+  "width": 3,
+  "height": 6,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.kitty.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.kitty.title"
+  }
+}

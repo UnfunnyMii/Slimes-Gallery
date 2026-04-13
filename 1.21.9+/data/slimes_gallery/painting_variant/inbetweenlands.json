@@ -1,0 +1,13 @@
+{
+  "asset_id": "slimes_gallery:inbetweenlands",
+  "width": 4,
+  "height": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.slimes_gallery.inbetweenlands.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.slimes_gallery.inbetweenlands.title"
+  }
+}
